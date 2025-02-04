@@ -65,6 +65,7 @@ filelock==3.15.4
 fire==0.7.0
 Flask==3.0.3
 Flask
+flask
 Flask-Cors==5.0.0
 Flask-SQLAlchemy==3.1.1
 flatbuffers==24.3.25
