@@ -197,6 +197,7 @@ pywin32-ctypes==0.2.2
 PyYAML==6.0.2
 pyzbar==0.1.9
 redis==5.0.8
+pip==25.0
 referencing==0.35.1
 regex==2024.7.24
 report==0.0.1
