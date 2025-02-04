@@ -213,7 +213,7 @@ scikit-learn==1.5.1
 scipy==1.14.0
 seaborn==0.13.2
 semantic-version==2.10.0
-setuptools==73.0.1
+setuptools==75.8.0
 shellingham==1.5.4
 six==1.16.0
 smart-open==7.0.4
@@ -267,7 +267,7 @@ weasel==0.4.1
 websocket-client==1.8.0
 websockets==12.0
 Werkzeug==3.0.4
-wheel==0.44.0
+wheel==0.45.1
 whichcraft==0.6.1
 WMI==1.5.1
 wrapt==1.16.0
